@@ -1,0 +1,9 @@
+venv
+scripts
+docker*
+__pycache__
+node_modules
+dist
+.DS_Store
+test*
+tmp*
